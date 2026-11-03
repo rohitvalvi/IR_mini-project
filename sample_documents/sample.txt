@@ -1,0 +1,6 @@
+Artificial intelligence is increasingly used to help people find and understand information.
+Document summarization reduces a long document to a shorter version while preserving its main ideas.
+Extractive systems select existing sentences, whereas abstractive systems generate new wording.
+Modern transformer models can use context to produce fluent summaries, but they may still omit
+details or introduce factual errors. A reliable application should therefore show the source
+text, explain its limitations, and let users review the generated result.
